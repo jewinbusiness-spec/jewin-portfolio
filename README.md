@@ -1,39 +1,33 @@
 # 👋 Hi, I'm Jewin
 
-## 🎬 Photo & Video Editor | AI Creator | Customer Support
+## 🎬 Photo & Video Editor
+I create engaging short-form videos, edit professional photos, and design content that helps businesses grow.
 
-I create engaging content, edit videos and photos, and help businesses grow through creative visuals and excellent customer service.
+## 🤖 AI Content Creator
+Experienced with AI tools for content creation, automation, and creative workflows.
 
----
+## 💬 Customer Support
+Providing friendly, professional customer service and chat support.
 
-## 💼 What I Do
+## 🛠 Skills
 
-🎥 Video Editing  
-📸 Photo Editing  
-🎵 Short-form Reels (CapCut Pro)  
-🤖 AI-Assisted Content Creation  
-💬 Customer Support  
-📈 Sales & Lead Generation
+- 🎥 Video Editing (CapCut Pro)
+- 📸 Photo Editing
+- 🤖 AI Tools
+- 🎨 Graphic Design
+- 💬 Customer Support
+- 📈 Sales
 
----
+## 🌎 Portfolio
 
-## 🛠️ Tools
+👉 https://jewinbusiness-spec.github.io/jewin-portfolio/
 
-- CapCut Pro
-- Adobe Photoshop
-- Canva
-- ChatGPT & AI Tools
+## 📧 Contact
 
----
+**Email:** jewin.business@gmail.com
 
-## 🚀 Current Project
-
-🌐 Building my personal portfolio website with HTML, CSS & JavaScript.
+**GitHub:** https://github.com/jewinbusiness-spec
 
 ---
 
-## 📫 Let's Connect
-
-Portfolio Website (Coming Soon)
-
-⭐ Thanks for visiting my GitHub!
+⭐ Currently available for freelance work.
